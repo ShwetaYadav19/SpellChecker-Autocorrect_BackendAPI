@@ -1,2 +1,2 @@
 # SpellChecker-Autocorrect_BackendAPI
-This is a backend side java code which uses Damerau Levenshtine Edit Distance algorithm for suggesting word for autocorrect/spellchecker the ones used in ms-word ,whatsapp messenger etc.
+This is a backend side java code which uses Damerau Levenshtine Edit Distance algorithm for suggesting word for autocorrect/spellchecker the ones used in ms-word ,whatsapp messenger etc. This currently used a random text file called SherlockHolmes.txt to create a dictionery of words. In a real scenario we can use any alternate text file(eg. Oxford dictionary) to generate an exhaustive set of words. This code simply gives a classic code working behind our autocorrect.
